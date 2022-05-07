@@ -1,2 +1,2 @@
-username:password
-mytwitchusername:password1234
+username:RealGem400
+mytwitchusername:protactinium
